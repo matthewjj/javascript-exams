@@ -8,7 +8,7 @@ npm test
 
 ## 2 Indicies Test
 
-Find 2 indicies from array that sum to target a give nubmer:
+Find 2 indicies from array that sum to target a give number:
 
 ### Usage
 
