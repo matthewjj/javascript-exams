@@ -1,6 +1,6 @@
 # javascript-exams
 
-# Installation
+## Installation
 ```
 npm install
 npm test
