@@ -17,9 +17,7 @@ const indiciesService = require('../library/array-2-indicies.js');
 const nums = [2, 7, 11, 15];
 let target = 22;
 
-let check = indiciesService.checkResult(
-	indiciesService.map(nums, target),
-	nums
+console.log(
+	indiciesService.map(nums, target)
 );
-expect(check).toBe(target);
 ```
